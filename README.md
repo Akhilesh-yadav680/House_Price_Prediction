@@ -10,7 +10,7 @@ Gradio app opens in your browser and allows you to input features to get the pre
 
 house-price-prediction/
 ├── data/
-│ └── House Price Prediction Dataset.csv
+│ └── house_pred.xlsx
 ├── app.py
 ├── House_price_prediction.ipynb
 ├── requirements.txt
