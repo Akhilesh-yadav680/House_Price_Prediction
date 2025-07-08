@@ -86,9 +86,6 @@ __pycache__/
 🧠 Optional: Export Trained Model
 In your notebook, you can export the model like this:
 
-python
-Copy
-Edit
 import joblib
 joblib.dump(model, 'model.pkl')
 Then you can load it in app.py instead of retraining every time.
