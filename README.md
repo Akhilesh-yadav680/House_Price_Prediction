@@ -24,22 +24,9 @@ house-price-prediction/
 
 ## 🔧 Setup Instructions
 
-1. Clone the repo:
 
-```bash
-git clone https://github.com/Akhilesh-yadav680/house-price-prediction.git
-cd house-price-prediction
-Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the app:
-
-bash
-Copy
-Edit
 python app.py
 A local web interface will open where you can input house details to get price predictions.
 
