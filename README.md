@@ -44,7 +44,7 @@ Furnishing Status
 ... (based on dataset columns)
 
 ✅ Output
-Predicted House Price (in ₹)
+Predicted House Price (in ₹(lakhs)
 
 📝 License
 This project is licensed under the MIT License.
